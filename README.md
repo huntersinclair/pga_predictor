@@ -8,6 +8,10 @@ source .venv/bin/activate
 ## Make sure you are running Python 3.11+
 pip install -r requirements.txt
 
+## Install the frontend server packages
+cd frontend
+npm install
+
 ## Start the backend server
 cd pga
 python manage.py runserver
