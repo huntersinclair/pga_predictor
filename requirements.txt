@@ -1,0 +1,15 @@
+beautifulsoup4
+Django==5.0.6
+django-vue
+django-cors-headers
+djangorestframework
+markdown
+django-filter
+request
+pandas
+gzip
+brotlicffi
+brotli
+zstandard
+
+

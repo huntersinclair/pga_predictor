@@ -1,0 +1,2 @@
+VUE_APP_API_URL=http://127.0.0.1:8000/predictor/num_to_english
+VUE_APP_API_PGA_URL=http://127.0.0.1:8000/predictor/get_tournament_stats
