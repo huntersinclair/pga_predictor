@@ -5,11 +5,9 @@ django-cors-headers
 djangorestframework
 markdown
 django-filter
-request
+requests
 pandas
-gzip
 brotlicffi
 brotli
 zstandard
-
-
+python-dotenv
