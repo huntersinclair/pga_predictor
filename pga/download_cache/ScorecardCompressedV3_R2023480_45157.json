@@ -1,0 +1,790 @@
+{
+    "__typename": "ScorecardV3",
+    "tournamentName": "Wells Fargo Championship",
+    "id": "R2023480-45157",
+    "currentRound": 4,
+    "backNine": false,
+    "groupNumber": 31,
+    "player": {
+        "abbreviations": "",
+        "abbreviationsAccessibilityText": "",
+        "amateur": false,
+        "country": "AUS",
+        "countryFlag": "AUS",
+        "displayName": "Cam Davis",
+        "firstName": "Cam",
+        "id": "45157",
+        "lastName": "Davis",
+        "shortName": "Davis, C.",
+        "lineColor": "#0084FF"
+    },
+    "roundScores": [
+        {
+            "__typename": "RoundScore",
+            "complete": true,
+            "currentHole": 18,
+            "currentRound": false,
+            "firstNine": {
+                "holes": [
+                    {
+                        "holeNumber": 1,
+                        "par": 4,
+                        "score": "5",
+                        "sequenceNumber": 0,
+                        "status": "BOGEY",
+                        "yardage": 506,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 2,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 1,
+                        "status": "PAR",
+                        "yardage": 454,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 3,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 2,
+                        "status": "PAR",
+                        "yardage": 490,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 4,
+                        "par": 3,
+                        "score": "2",
+                        "sequenceNumber": 3,
+                        "status": "BIRDIE",
+                        "yardage": 176,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 5,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 4,
+                        "status": "PAR",
+                        "yardage": 462,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 6,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 5,
+                        "status": "PAR",
+                        "yardage": 234,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 7,
+                        "par": 5,
+                        "score": "4",
+                        "sequenceNumber": 6,
+                        "status": "BIRDIE",
+                        "yardage": 530,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 8,
+                        "par": 4,
+                        "score": "3",
+                        "sequenceNumber": 7,
+                        "status": "BIRDIE",
+                        "yardage": 341,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 9,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 8,
+                        "status": "PAR",
+                        "yardage": 481,
+                        "roundScore": "-2"
+                    }
+                ],
+                "totalLabel": "OUT",
+                "parTotal": 35,
+                "total": "33"
+            },
+            "secondNine": {
+                "holes": [
+                    {
+                        "holeNumber": 10,
+                        "par": 5,
+                        "score": "5",
+                        "sequenceNumber": 9,
+                        "status": "PAR",
+                        "yardage": 580,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 11,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 10,
+                        "status": "PAR",
+                        "yardage": 469,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 12,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 11,
+                        "status": "PAR",
+                        "yardage": 468,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 13,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 12,
+                        "status": "PAR",
+                        "yardage": 180,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 14,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 13,
+                        "status": "PAR",
+                        "yardage": 333,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 15,
+                        "par": 5,
+                        "score": "7",
+                        "sequenceNumber": 14,
+                        "status": "DOUBLE_BOGEY",
+                        "yardage": 574,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 16,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 15,
+                        "status": "PAR",
+                        "yardage": 516,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 17,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 16,
+                        "status": "PAR",
+                        "yardage": 170,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 18,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 17,
+                        "status": "PAR",
+                        "yardage": 484,
+                        "roundScore": "E"
+                    }
+                ],
+                "totalLabel": "IN",
+                "parTotal": 36,
+                "total": "38"
+            },
+            "roundNumber": 1,
+            "groupNumber": 7,
+            "courseName": "Quail Hollow Club",
+            "courseId": "872",
+            "parTotal": 71,
+            "total": "71",
+            "scoreToPar": "E",
+            "tourcastURL": "https://tourcast.pgatour.com/tourcast.html?id=R2023480&webview=true#/hole-view?round=1&hole=<holeNumber>&cid=872&group=7&pid=45157&gv=no",
+            "tourcastURLWeb": "true"
+        },
+        {
+            "__typename": "RoundScore",
+            "complete": true,
+            "currentHole": 9,
+            "currentRound": false,
+            "firstNine": {
+                "holes": [
+                    {
+                        "holeNumber": 10,
+                        "par": 5,
+                        "score": "5",
+                        "sequenceNumber": 0,
+                        "status": "PAR",
+                        "yardage": 592,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 11,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 1,
+                        "status": "PAR",
+                        "yardage": 452,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 12,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 2,
+                        "status": "PAR",
+                        "yardage": 442,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 13,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 3,
+                        "status": "PAR",
+                        "yardage": 218,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 14,
+                        "par": 4,
+                        "score": "5",
+                        "sequenceNumber": 4,
+                        "status": "BOGEY",
+                        "yardage": 325,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 15,
+                        "par": 5,
+                        "score": "6",
+                        "sequenceNumber": 5,
+                        "status": "BOGEY",
+                        "yardage": 585,
+                        "roundScore": "+2"
+                    },
+                    {
+                        "holeNumber": 16,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 6,
+                        "status": "PAR",
+                        "yardage": 499,
+                        "roundScore": "+2"
+                    },
+                    {
+                        "holeNumber": 17,
+                        "par": 3,
+                        "score": "2",
+                        "sequenceNumber": 7,
+                        "status": "BIRDIE",
+                        "yardage": 198,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 18,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 8,
+                        "status": "PAR",
+                        "yardage": 498,
+                        "roundScore": "+1"
+                    }
+                ],
+                "totalLabel": "IN",
+                "parTotal": 36,
+                "total": "37"
+            },
+            "secondNine": {
+                "holes": [
+                    {
+                        "holeNumber": 1,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 9,
+                        "status": "PAR",
+                        "yardage": 491,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 2,
+                        "par": 4,
+                        "score": "3",
+                        "sequenceNumber": 10,
+                        "status": "BIRDIE",
+                        "yardage": 440,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 3,
+                        "par": 4,
+                        "score": "3",
+                        "sequenceNumber": 11,
+                        "status": "BIRDIE",
+                        "yardage": 469,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 4,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 12,
+                        "status": "PAR",
+                        "yardage": 164,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 5,
+                        "par": 4,
+                        "score": "3",
+                        "sequenceNumber": 13,
+                        "status": "BIRDIE",
+                        "yardage": 445,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 6,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 14,
+                        "status": "PAR",
+                        "yardage": 220,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 7,
+                        "par": 5,
+                        "score": "5",
+                        "sequenceNumber": 15,
+                        "status": "PAR",
+                        "yardage": 533,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 8,
+                        "par": 4,
+                        "score": "5",
+                        "sequenceNumber": 16,
+                        "status": "BOGEY",
+                        "yardage": 349,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 9,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 17,
+                        "status": "PAR",
+                        "yardage": 508,
+                        "roundScore": "-1"
+                    }
+                ],
+                "totalLabel": "OUT",
+                "parTotal": 35,
+                "total": "33"
+            },
+            "roundNumber": 2,
+            "groupNumber": 7,
+            "courseName": "Quail Hollow Club",
+            "courseId": "872",
+            "parTotal": 71,
+            "total": "70",
+            "scoreToPar": "-1",
+            "tourcastURL": "https://tourcast.pgatour.com/tourcast.html?id=R2023480&webview=true#/hole-view?round=2&hole=<holeNumber>&cid=872&group=7&pid=45157&gv=no",
+            "tourcastURLWeb": "true"
+        },
+        {
+            "__typename": "RoundScore",
+            "complete": true,
+            "currentHole": 18,
+            "currentRound": false,
+            "firstNine": {
+                "holes": [
+                    {
+                        "holeNumber": 1,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 0,
+                        "status": "PAR",
+                        "yardage": 510,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 2,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 1,
+                        "status": "PAR",
+                        "yardage": 460,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 3,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 2,
+                        "status": "PAR",
+                        "yardage": 492,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 4,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 3,
+                        "status": "PAR",
+                        "yardage": 188,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 5,
+                        "par": 4,
+                        "score": "5",
+                        "sequenceNumber": 4,
+                        "status": "BOGEY",
+                        "yardage": 444,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 6,
+                        "par": 3,
+                        "score": "4",
+                        "sequenceNumber": 5,
+                        "status": "BOGEY",
+                        "yardage": 196,
+                        "roundScore": "+2"
+                    },
+                    {
+                        "holeNumber": 7,
+                        "par": 5,
+                        "score": "5",
+                        "sequenceNumber": 6,
+                        "status": "PAR",
+                        "yardage": 555,
+                        "roundScore": "+2"
+                    },
+                    {
+                        "holeNumber": 8,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 7,
+                        "status": "PAR",
+                        "yardage": 328,
+                        "roundScore": "+2"
+                    },
+                    {
+                        "holeNumber": 9,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 8,
+                        "status": "PAR",
+                        "yardage": 506,
+                        "roundScore": "+2"
+                    }
+                ],
+                "totalLabel": "OUT",
+                "parTotal": 35,
+                "total": "37"
+            },
+            "secondNine": {
+                "holes": [
+                    {
+                        "holeNumber": 10,
+                        "par": 5,
+                        "score": "4",
+                        "sequenceNumber": 9,
+                        "status": "BIRDIE",
+                        "yardage": 594,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 11,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 10,
+                        "status": "PAR",
+                        "yardage": 474,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 12,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 11,
+                        "status": "PAR",
+                        "yardage": 464,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 13,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 12,
+                        "status": "PAR",
+                        "yardage": 210,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 14,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 13,
+                        "status": "PAR",
+                        "yardage": 306,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 15,
+                        "par": 5,
+                        "score": "4",
+                        "sequenceNumber": 14,
+                        "status": "BIRDIE",
+                        "yardage": 588,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 16,
+                        "par": 4,
+                        "score": "5",
+                        "sequenceNumber": 15,
+                        "status": "BOGEY",
+                        "yardage": 516,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 17,
+                        "par": 3,
+                        "score": "4",
+                        "sequenceNumber": 16,
+                        "status": "BOGEY",
+                        "yardage": 137,
+                        "roundScore": "+2"
+                    },
+                    {
+                        "holeNumber": 18,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 17,
+                        "status": "PAR",
+                        "yardage": 480,
+                        "roundScore": "+2"
+                    }
+                ],
+                "totalLabel": "IN",
+                "parTotal": 36,
+                "total": "36"
+            },
+            "roundNumber": 3,
+            "groupNumber": 33,
+            "courseName": "Quail Hollow Club",
+            "courseId": "872",
+            "parTotal": 71,
+            "total": "73",
+            "scoreToPar": "+2",
+            "tourcastURL": "https://tourcast.pgatour.com/tourcast.html?id=R2023480&webview=true#/hole-view?round=3&hole=<holeNumber>&cid=872&group=33&pid=45157&gv=no",
+            "tourcastURLWeb": "true"
+        },
+        {
+            "__typename": "RoundScore",
+            "complete": true,
+            "currentHole": 18,
+            "currentRound": true,
+            "firstNine": {
+                "holes": [
+                    {
+                        "holeNumber": 1,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 0,
+                        "status": "PAR",
+                        "yardage": 482,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 2,
+                        "par": 4,
+                        "score": "5",
+                        "sequenceNumber": 1,
+                        "status": "BOGEY",
+                        "yardage": 463,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 3,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 2,
+                        "status": "PAR",
+                        "yardage": 476,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 4,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 3,
+                        "status": "PAR",
+                        "yardage": 170,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 5,
+                        "par": 4,
+                        "score": "3",
+                        "sequenceNumber": 4,
+                        "status": "BIRDIE",
+                        "yardage": 441,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 6,
+                        "par": 3,
+                        "score": "4",
+                        "sequenceNumber": 5,
+                        "status": "BOGEY",
+                        "yardage": 257,
+                        "roundScore": "+1"
+                    },
+                    {
+                        "holeNumber": 7,
+                        "par": 5,
+                        "score": "4",
+                        "sequenceNumber": 6,
+                        "status": "BIRDIE",
+                        "yardage": 531,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 8,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 7,
+                        "status": "PAR",
+                        "yardage": 333,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 9,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 8,
+                        "status": "PAR",
+                        "yardage": 483,
+                        "roundScore": "E"
+                    }
+                ],
+                "totalLabel": "OUT",
+                "parTotal": 35,
+                "total": "35"
+            },
+            "secondNine": {
+                "holes": [
+                    {
+                        "holeNumber": 10,
+                        "par": 5,
+                        "score": "4",
+                        "sequenceNumber": 9,
+                        "status": "BIRDIE",
+                        "yardage": 581,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 11,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 10,
+                        "status": "PAR",
+                        "yardage": 459,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 12,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 11,
+                        "status": "PAR",
+                        "yardage": 463,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 13,
+                        "par": 3,
+                        "score": "3",
+                        "sequenceNumber": 12,
+                        "status": "PAR",
+                        "yardage": 172,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 14,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 13,
+                        "status": "PAR",
+                        "yardage": 342,
+                        "roundScore": "-1"
+                    },
+                    {
+                        "holeNumber": 15,
+                        "par": 5,
+                        "score": "4",
+                        "sequenceNumber": 14,
+                        "status": "BIRDIE",
+                        "yardage": 571,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 16,
+                        "par": 4,
+                        "score": "4",
+                        "sequenceNumber": 15,
+                        "status": "PAR",
+                        "yardage": 499,
+                        "roundScore": "-2"
+                    },
+                    {
+                        "holeNumber": 17,
+                        "par": 3,
+                        "score": "5",
+                        "sequenceNumber": 16,
+                        "status": "DOUBLE_BOGEY",
+                        "yardage": 187,
+                        "roundScore": "E"
+                    },
+                    {
+                        "holeNumber": 18,
+                        "par": 4,
+                        "score": "5",
+                        "sequenceNumber": 17,
+                        "status": "BOGEY",
+                        "yardage": 502,
+                        "roundScore": "+1"
+                    }
+                ],
+                "totalLabel": "IN",
+                "parTotal": 36,
+                "total": "37"
+            },
+            "roundNumber": 4,
+            "groupNumber": 31,
+            "courseName": "Quail Hollow Club",
+            "courseId": "872",
+            "parTotal": 71,
+            "total": "72",
+            "scoreToPar": "+1",
+            "tourcastURL": "https://tourcast.pgatour.com/tourcast.html?id=R2023480&webview=true#/hole-view?round=4&hole=<holeNumber>&cid=872&group=31&pid=45157&gv=no",
+            "tourcastURLWeb": "true"
+        }
+    ],
+    "currentHole": 18,
+    "playerState": "COMPLETE",
+    "hideSov": false
+}

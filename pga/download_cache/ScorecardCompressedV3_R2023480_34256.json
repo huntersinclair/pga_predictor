@@ -1,0 +1,23 @@
+{
+    "__typename": "ScorecardV3",
+    "tournamentName": "Wells Fargo Championship",
+    "id": "R2023480-34256",
+    "backNine": true,
+    "groupNumber": 16,
+    "player": {
+        "abbreviations": "",
+        "abbreviationsAccessibilityText": "",
+        "amateur": false,
+        "country": "USA",
+        "countryFlag": "USA",
+        "displayName": "Andrew Putnam",
+        "firstName": "Andrew",
+        "id": "34256",
+        "lastName": "Putnam",
+        "shortName": "Putnam, A.",
+        "lineColor": "#0084FF"
+    },
+    "roundScores": [],
+    "playerState": "WITHDRAWN",
+    "hideSov": false
+}

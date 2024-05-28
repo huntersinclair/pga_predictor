@@ -1,0 +1,23 @@
+{
+    "__typename": "ScorecardV3",
+    "tournamentName": "Wells Fargo Championship",
+    "id": "R2023480-34466",
+    "backNine": true,
+    "groupNumber": 49,
+    "player": {
+        "abbreviations": "",
+        "abbreviationsAccessibilityText": "",
+        "amateur": false,
+        "country": "USA",
+        "countryFlag": "USA",
+        "displayName": "Peter Malnati",
+        "firstName": "Peter",
+        "id": "34466",
+        "lastName": "Malnati",
+        "shortName": "Malnati, P.",
+        "lineColor": "#0084FF"
+    },
+    "roundScores": [],
+    "playerState": "WITHDRAWN",
+    "hideSov": false
+}

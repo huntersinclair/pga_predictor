@@ -1,0 +1,986 @@
+{
+    "__typename": "PlayerScorecardStats",
+    "id": "R2023480-28775",
+    "rounds": [
+        {
+            "__typename": "PlayerScorecardRoundStats",
+            "round": "-1",
+            "displayName": "All",
+            "roundStatus": "UPCOMING",
+            "performance": [
+                {
+                    "label": "SG: Off The Tee",
+                    "rank": "52",
+                    "total": "-1.345",
+                    "yearToDate": "-0.105",
+                    "statId": "02567"
+                },
+                {
+                    "label": "SG: Approach to Green",
+                    "rank": "8",
+                    "total": "5.190",
+                    "yearToDate": "0.318",
+                    "statId": "02568"
+                },
+                {
+                    "label": "SG: Around The Green",
+                    "rank": "62",
+                    "total": "-1.970",
+                    "yearToDate": "0.063",
+                    "statId": "02569"
+                },
+                {
+                    "label": "SG: Putting",
+                    "rank": "28",
+                    "total": "1.415",
+                    "yearToDate": "0.074",
+                    "statId": "02564"
+                },
+                {
+                    "label": "SG: Total",
+                    "rank": "T27",
+                    "total": "4.490",
+                    "yearToDate": "0.351",
+                    "statId": "02675"
+                },
+                {
+                    "label": "Driving Accuracy",
+                    "total": "58.93% (33/56)",
+                    "rank": "T21",
+                    "yearToDate": "60.72%",
+                    "statId": "102"
+                },
+                {
+                    "label": "Driving Distance",
+                    "total": "311.00 yds",
+                    "rank": "T48",
+                    "yearToDate": "297.4",
+                    "statId": "101"
+                },
+                {
+                    "label": "Longest Drive",
+                    "total": "346.00 yds",
+                    "rank": "T64",
+                    "yearToDate": "370",
+                    "statId": "159"
+                },
+                {
+                    "label": "Greens in Regulation",
+                    "total": "73.61% (53/72)",
+                    "rank": "T8",
+                    "yearToDate": "69.73%",
+                    "statId": "103"
+                },
+                {
+                    "label": "Sand Saves",
+                    "total": "25.00% (2/8)",
+                    "rank": "T63",
+                    "yearToDate": "47.62%",
+                    "statId": "111"
+                },
+                {
+                    "label": "Scrambling",
+                    "total": "57.89% (11/19)",
+                    "rank": "T40",
+                    "yearToDate": "58.49%",
+                    "statId": "130"
+                },
+                {
+                    "label": "Putts per GIR",
+                    "total": "1.81",
+                    "rank": "54",
+                    "yearToDate": "1.742",
+                    "statId": "104"
+                }
+            ],
+            "scoring": [
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Eagles -",
+                    "total": "0",
+                    "rank": "T30",
+                    "yearToDate": "9",
+                    "statId": "106"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Birdies",
+                    "total": "14",
+                    "rank": "T37",
+                    "yearToDate": "434",
+                    "statId": "107"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Pars",
+                    "total": "50",
+                    "rank": "T9",
+                    "yearToDate": "-",
+                    "statId": "1005"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Bogeys",
+                    "total": "6",
+                    "rank": "T5",
+                    "yearToDate": "-",
+                    "statId": "1002"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Double Bogeys",
+                    "total": "2",
+                    "rank": "T57",
+                    "yearToDate": "-",
+                    "statId": "1003"
+                }
+            ],
+            "strokesGained": [
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02567",
+                    "graph": true,
+                    "label": "SG: Off The Tee",
+                    "shortLabel": "Off The Tee",
+                    "total": "-1.345",
+                    "totalNum": -1.345,
+                    "rank": "52",
+                    "yearToDate": "-0.105",
+                    "yearToDateNum": -0.105
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02568",
+                    "graph": true,
+                    "label": "SG: Approach to Green",
+                    "shortLabel": "Approach to Green",
+                    "total": "5.190",
+                    "totalNum": 5.19,
+                    "rank": "8",
+                    "yearToDate": "0.318",
+                    "yearToDateNum": 0.318
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02569",
+                    "graph": true,
+                    "label": "SG: Around The Green",
+                    "shortLabel": "Around The Green",
+                    "total": "-1.970",
+                    "totalNum": -1.97,
+                    "rank": "62",
+                    "yearToDate": "0.063",
+                    "yearToDateNum": 0.063
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02564",
+                    "graph": true,
+                    "label": "SG: Putting",
+                    "shortLabel": "Putting",
+                    "total": "1.415",
+                    "totalNum": 1.415,
+                    "rank": "28",
+                    "yearToDate": "0.074",
+                    "yearToDateNum": 0.074
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02675",
+                    "graph": false,
+                    "label": "SG: Total",
+                    "shortLabel": "Total",
+                    "total": "4.490",
+                    "totalNum": 4.49,
+                    "rank": "T27",
+                    "yearToDate": "0.351",
+                    "yearToDateNum": 0.351
+                }
+            ]
+        },
+        {
+            "__typename": "PlayerScorecardRoundStats",
+            "round": "4",
+            "displayName": "Round 4",
+            "roundStatus": "OFFICIAL",
+            "performance": [
+                {
+                    "label": "SG: Off The Tee",
+                    "rank": "33",
+                    "total": "0.079",
+                    "yearToDate": "-0.105",
+                    "statId": "02567"
+                },
+                {
+                    "label": "SG: Approach to Green",
+                    "rank": "37",
+                    "total": "-0.356",
+                    "yearToDate": "0.318",
+                    "statId": "02568"
+                },
+                {
+                    "label": "SG: Around The Green",
+                    "rank": "68",
+                    "total": "-2.438",
+                    "yearToDate": "0.063",
+                    "statId": "02569"
+                },
+                {
+                    "label": "SG: Putting",
+                    "rank": "39",
+                    "total": "-0.629",
+                    "yearToDate": "0.074",
+                    "statId": "02564"
+                },
+                {
+                    "label": "SG: Total",
+                    "rank": "T63",
+                    "total": "-3.485",
+                    "yearToDate": "0.351",
+                    "statId": "02675"
+                },
+                {
+                    "label": "Driving Accuracy",
+                    "total": "57.14% (8/14)",
+                    "rank": "T22",
+                    "yearToDate": "60.72%",
+                    "statId": "102"
+                },
+                {
+                    "label": "Driving Distance",
+                    "total": "316.50 yds",
+                    "rank": "T46",
+                    "yearToDate": "297.4",
+                    "statId": "101"
+                },
+                {
+                    "label": "Longest Drive",
+                    "total": "0.00 yds",
+                    "rank": "-",
+                    "yearToDate": "370",
+                    "statId": "159"
+                },
+                {
+                    "label": "Greens in Regulation",
+                    "total": "72.22% (13/18)",
+                    "rank": "T15",
+                    "yearToDate": "69.73%",
+                    "statId": "103"
+                },
+                {
+                    "label": "Sand Saves",
+                    "total": "25.00% (1/4)",
+                    "rank": "T54",
+                    "yearToDate": "47.62%",
+                    "statId": "111"
+                },
+                {
+                    "label": "Scrambling",
+                    "total": "40.00% (2/5)",
+                    "rank": "T55",
+                    "yearToDate": "58.49%",
+                    "statId": "130"
+                },
+                {
+                    "label": "Putts per GIR",
+                    "total": "2.00",
+                    "rank": "T60",
+                    "yearToDate": "1.742",
+                    "statId": "104"
+                }
+            ],
+            "scoring": [
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Eagles -",
+                    "total": "0",
+                    "rank": "T11",
+                    "yearToDate": "9",
+                    "statId": "106"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Birdies",
+                    "total": "0",
+                    "rank": "T64",
+                    "yearToDate": "434",
+                    "statId": "107"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Pars",
+                    "total": "15",
+                    "rank": "T3",
+                    "yearToDate": "-",
+                    "statId": "1005"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Bogeys",
+                    "total": "2",
+                    "rank": "T11",
+                    "yearToDate": "-",
+                    "statId": "1002"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Double Bogeys",
+                    "total": "1",
+                    "rank": "T48",
+                    "yearToDate": "-",
+                    "statId": "1003"
+                }
+            ],
+            "strokesGained": [
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02567",
+                    "graph": true,
+                    "label": "SG: Off The Tee",
+                    "shortLabel": "Off The Tee",
+                    "total": "0.079",
+                    "totalNum": 0.079,
+                    "rank": "33",
+                    "yearToDate": "-0.105",
+                    "yearToDateNum": -0.105
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02568",
+                    "graph": true,
+                    "label": "SG: Approach to Green",
+                    "shortLabel": "Approach to Green",
+                    "total": "-0.356",
+                    "totalNum": -0.356,
+                    "rank": "37",
+                    "yearToDate": "0.318",
+                    "yearToDateNum": 0.318
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02569",
+                    "graph": true,
+                    "label": "SG: Around The Green",
+                    "shortLabel": "Around The Green",
+                    "total": "-2.438",
+                    "totalNum": -2.438,
+                    "rank": "68",
+                    "yearToDate": "0.063",
+                    "yearToDateNum": 0.063
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02564",
+                    "graph": true,
+                    "label": "SG: Putting",
+                    "shortLabel": "Putting",
+                    "total": "-0.629",
+                    "totalNum": -0.629,
+                    "rank": "39",
+                    "yearToDate": "0.074",
+                    "yearToDateNum": 0.074
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02675",
+                    "graph": false,
+                    "label": "SG: Total",
+                    "shortLabel": "Total",
+                    "total": "-3.485",
+                    "totalNum": -3.485,
+                    "rank": "T63",
+                    "yearToDate": "0.351",
+                    "yearToDateNum": 0.351
+                }
+            ]
+        },
+        {
+            "__typename": "PlayerScorecardRoundStats",
+            "round": "3",
+            "displayName": "Round 3",
+            "roundStatus": "OFFICIAL",
+            "performance": [
+                {
+                    "label": "SG: Off The Tee",
+                    "rank": "68",
+                    "total": "-1.782",
+                    "yearToDate": "-0.105",
+                    "statId": "02567"
+                },
+                {
+                    "label": "SG: Approach to Green",
+                    "rank": "35",
+                    "total": "0.128",
+                    "yearToDate": "0.318",
+                    "statId": "02568"
+                },
+                {
+                    "label": "SG: Around The Green",
+                    "rank": "27",
+                    "total": "0.416",
+                    "yearToDate": "0.063",
+                    "statId": "02569"
+                },
+                {
+                    "label": "SG: Putting",
+                    "rank": "26",
+                    "total": "0.692",
+                    "yearToDate": "0.074",
+                    "statId": "02564"
+                },
+                {
+                    "label": "SG: Total",
+                    "rank": "T37",
+                    "total": "-0.824",
+                    "yearToDate": "0.351",
+                    "statId": "02675"
+                },
+                {
+                    "label": "Driving Accuracy",
+                    "total": "42.86% (6/14)",
+                    "rank": "T47",
+                    "yearToDate": "60.72%",
+                    "statId": "102"
+                },
+                {
+                    "label": "Driving Distance",
+                    "total": "308.50 yds",
+                    "rank": "T49",
+                    "yearToDate": "297.4",
+                    "statId": "101"
+                },
+                {
+                    "label": "Longest Drive",
+                    "total": "0.00 yds",
+                    "rank": "-",
+                    "yearToDate": "370",
+                    "statId": "159"
+                },
+                {
+                    "label": "Greens in Regulation",
+                    "total": "66.67% (12/18)",
+                    "rank": "T31",
+                    "yearToDate": "69.73%",
+                    "statId": "103"
+                },
+                {
+                    "label": "Sand Saves",
+                    "total": "0.00% (0/1)",
+                    "rank": "T48",
+                    "yearToDate": "47.62%",
+                    "statId": "111"
+                },
+                {
+                    "label": "Scrambling",
+                    "total": "50.00% (3/6)",
+                    "rank": "T37",
+                    "yearToDate": "58.49%",
+                    "statId": "130"
+                },
+                {
+                    "label": "Putts per GIR",
+                    "total": "1.67",
+                    "rank": "T23",
+                    "yearToDate": "1.742",
+                    "statId": "104"
+                }
+            ],
+            "scoring": [
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Eagles -",
+                    "total": "0",
+                    "rank": "T5",
+                    "yearToDate": "9",
+                    "statId": "106"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Birdies",
+                    "total": "4",
+                    "rank": "T30",
+                    "yearToDate": "434",
+                    "statId": "107"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Pars",
+                    "total": "11",
+                    "rank": "T25",
+                    "yearToDate": "-",
+                    "statId": "1005"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Bogeys",
+                    "total": "2",
+                    "rank": "T15",
+                    "yearToDate": "-",
+                    "statId": "1002"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Double Bogeys",
+                    "total": "1",
+                    "rank": "T53",
+                    "yearToDate": "-",
+                    "statId": "1003"
+                }
+            ],
+            "strokesGained": [
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02567",
+                    "graph": true,
+                    "label": "SG: Off The Tee",
+                    "shortLabel": "Off The Tee",
+                    "total": "-1.782",
+                    "totalNum": -1.782,
+                    "rank": "68",
+                    "yearToDate": "-0.105",
+                    "yearToDateNum": -0.105
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02568",
+                    "graph": true,
+                    "label": "SG: Approach to Green",
+                    "shortLabel": "Approach to Green",
+                    "total": "0.128",
+                    "totalNum": 0.128,
+                    "rank": "35",
+                    "yearToDate": "0.318",
+                    "yearToDateNum": 0.318
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02569",
+                    "graph": true,
+                    "label": "SG: Around The Green",
+                    "shortLabel": "Around The Green",
+                    "total": "0.416",
+                    "totalNum": 0.416,
+                    "rank": "27",
+                    "yearToDate": "0.063",
+                    "yearToDateNum": 0.063
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02564",
+                    "graph": true,
+                    "label": "SG: Putting",
+                    "shortLabel": "Putting",
+                    "total": "0.692",
+                    "totalNum": 0.692,
+                    "rank": "26",
+                    "yearToDate": "0.074",
+                    "yearToDateNum": 0.074
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02675",
+                    "graph": false,
+                    "label": "SG: Total",
+                    "shortLabel": "Total",
+                    "total": "-0.824",
+                    "totalNum": -0.824,
+                    "rank": "T37",
+                    "yearToDate": "0.351",
+                    "yearToDateNum": 0.351
+                }
+            ]
+        },
+        {
+            "__typename": "PlayerScorecardRoundStats",
+            "round": "2",
+            "displayName": "Round 2",
+            "roundStatus": "OFFICIAL",
+            "performance": [
+                {
+                    "label": "SG: Off The Tee",
+                    "rank": "59",
+                    "total": "0.329",
+                    "yearToDate": "-0.105",
+                    "statId": "02567"
+                },
+                {
+                    "label": "SG: Approach to Green",
+                    "rank": "8",
+                    "total": "2.354",
+                    "yearToDate": "0.318",
+                    "statId": "02568"
+                },
+                {
+                    "label": "SG: Around The Green",
+                    "rank": "18",
+                    "total": "1.421",
+                    "yearToDate": "0.063",
+                    "statId": "02569"
+                },
+                {
+                    "label": "SG: Putting",
+                    "rank": "71",
+                    "total": "0.209",
+                    "yearToDate": "0.074",
+                    "statId": "02564"
+                },
+                {
+                    "label": "SG: Total",
+                    "rank": "T4",
+                    "total": "5.078",
+                    "yearToDate": "0.351",
+                    "statId": "02675"
+                },
+                {
+                    "label": "Driving Accuracy",
+                    "total": "78.57% (11/14)",
+                    "rank": "T5",
+                    "yearToDate": "60.72%",
+                    "statId": "102"
+                },
+                {
+                    "label": "Driving Distance",
+                    "total": "303.00 yds",
+                    "rank": "T90",
+                    "yearToDate": "297.4",
+                    "statId": "101"
+                },
+                {
+                    "label": "Longest Drive",
+                    "total": "0.00 yds",
+                    "rank": "-",
+                    "yearToDate": "370",
+                    "statId": "159"
+                },
+                {
+                    "label": "Greens in Regulation",
+                    "total": "77.78% (14/18)",
+                    "rank": "T12",
+                    "yearToDate": "69.73%",
+                    "statId": "103"
+                },
+                {
+                    "label": "Sand Saves",
+                    "total": "50.00% (1/2)",
+                    "rank": "T56",
+                    "yearToDate": "47.62%",
+                    "statId": "111"
+                },
+                {
+                    "label": "Scrambling",
+                    "total": "100.00% (4/4)",
+                    "rank": "T1",
+                    "yearToDate": "58.49%",
+                    "statId": "130"
+                },
+                {
+                    "label": "Putts per GIR",
+                    "total": "1.79",
+                    "rank": "T84",
+                    "yearToDate": "1.742",
+                    "statId": "104"
+                }
+            ],
+            "scoring": [
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Eagles -",
+                    "total": "0",
+                    "rank": "T15",
+                    "yearToDate": "9",
+                    "statId": "106"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Birdies",
+                    "total": "5",
+                    "rank": "T14",
+                    "yearToDate": "434",
+                    "statId": "107"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Pars",
+                    "total": "13",
+                    "rank": "T19",
+                    "yearToDate": "-",
+                    "statId": "1005"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Bogeys",
+                    "total": "0",
+                    "rank": "T1",
+                    "yearToDate": "-",
+                    "statId": "1002"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Double Bogeys",
+                    "total": "0",
+                    "rank": "T1",
+                    "yearToDate": "-",
+                    "statId": "1003"
+                }
+            ],
+            "strokesGained": [
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02567",
+                    "graph": true,
+                    "label": "SG: Off The Tee",
+                    "shortLabel": "Off The Tee",
+                    "total": "0.329",
+                    "totalNum": 0.329,
+                    "rank": "59",
+                    "yearToDate": "-0.105",
+                    "yearToDateNum": -0.105
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02568",
+                    "graph": true,
+                    "label": "SG: Approach to Green",
+                    "shortLabel": "Approach to Green",
+                    "total": "2.354",
+                    "totalNum": 2.354,
+                    "rank": "8",
+                    "yearToDate": "0.318",
+                    "yearToDateNum": 0.318
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02569",
+                    "graph": true,
+                    "label": "SG: Around The Green",
+                    "shortLabel": "Around The Green",
+                    "total": "1.421",
+                    "totalNum": 1.421,
+                    "rank": "18",
+                    "yearToDate": "0.063",
+                    "yearToDateNum": 0.063
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02564",
+                    "graph": true,
+                    "label": "SG: Putting",
+                    "shortLabel": "Putting",
+                    "total": "0.209",
+                    "totalNum": 0.209,
+                    "rank": "71",
+                    "yearToDate": "0.074",
+                    "yearToDateNum": 0.074
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02675",
+                    "graph": false,
+                    "label": "SG: Total",
+                    "shortLabel": "Total",
+                    "total": "5.078",
+                    "totalNum": 5.078,
+                    "rank": "T4",
+                    "yearToDate": "0.351",
+                    "yearToDateNum": 0.351
+                }
+            ]
+        },
+        {
+            "__typename": "PlayerScorecardRoundStats",
+            "round": "1",
+            "displayName": "Round 1",
+            "roundStatus": "OFFICIAL",
+            "performance": [
+                {
+                    "label": "SG: Off The Tee",
+                    "rank": "79",
+                    "total": "0.028",
+                    "yearToDate": "-0.105",
+                    "statId": "02567"
+                },
+                {
+                    "label": "SG: Approach to Green",
+                    "rank": "4",
+                    "total": "3.064",
+                    "yearToDate": "0.318",
+                    "statId": "02568"
+                },
+                {
+                    "label": "SG: Around The Green",
+                    "rank": "140",
+                    "total": "-1.369",
+                    "yearToDate": "0.063",
+                    "statId": "02569"
+                },
+                {
+                    "label": "SG: Putting",
+                    "rank": "39",
+                    "total": "1.142",
+                    "yearToDate": "0.074",
+                    "statId": "02564"
+                },
+                {
+                    "label": "SG: Total",
+                    "rank": "T16",
+                    "total": "3.721",
+                    "yearToDate": "0.351",
+                    "statId": "02675"
+                },
+                {
+                    "label": "Driving Accuracy",
+                    "total": "57.14% (8/14)",
+                    "rank": "T48",
+                    "yearToDate": "60.72%",
+                    "statId": "102"
+                },
+                {
+                    "label": "Driving Distance",
+                    "total": "316.00 yds",
+                    "rank": "T56",
+                    "yearToDate": "297.4",
+                    "statId": "101"
+                },
+                {
+                    "label": "Longest Drive",
+                    "total": "346.00 yds",
+                    "rank": "T35",
+                    "yearToDate": "370",
+                    "statId": "159"
+                },
+                {
+                    "label": "Greens in Regulation",
+                    "total": "77.78% (14/18)",
+                    "rank": "T8",
+                    "yearToDate": "69.73%",
+                    "statId": "103"
+                },
+                {
+                    "label": "Sand Saves",
+                    "total": "0.00% (0/1)",
+                    "rank": "T107",
+                    "yearToDate": "47.62%",
+                    "statId": "111"
+                },
+                {
+                    "label": "Scrambling",
+                    "total": "50.00% (2/4)",
+                    "rank": "T85",
+                    "yearToDate": "58.49%",
+                    "statId": "130"
+                },
+                {
+                    "label": "Putts per GIR",
+                    "total": "1.79",
+                    "rank": "T73",
+                    "yearToDate": "1.742",
+                    "statId": "104"
+                }
+            ],
+            "scoring": [
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Eagles -",
+                    "total": "0",
+                    "rank": "T15",
+                    "yearToDate": "9",
+                    "statId": "106"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Birdies",
+                    "total": "5",
+                    "rank": "T14",
+                    "yearToDate": "434",
+                    "statId": "107"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Pars",
+                    "total": "11",
+                    "rank": "T53",
+                    "yearToDate": "-",
+                    "statId": "1005"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Bogeys",
+                    "total": "2",
+                    "rank": "T23",
+                    "yearToDate": "-",
+                    "statId": "1002"
+                },
+                {
+                    "__typename": "ScorecardStatsItem",
+                    "label": "Double Bogeys",
+                    "total": "0",
+                    "rank": "T1",
+                    "yearToDate": "-",
+                    "statId": "1003"
+                }
+            ],
+            "strokesGained": [
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02567",
+                    "graph": true,
+                    "label": "SG: Off The Tee",
+                    "shortLabel": "Off The Tee",
+                    "total": "0.028",
+                    "totalNum": 0.028,
+                    "rank": "79",
+                    "yearToDate": "-0.105",
+                    "yearToDateNum": -0.105
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02568",
+                    "graph": true,
+                    "label": "SG: Approach to Green",
+                    "shortLabel": "Approach to Green",
+                    "total": "3.064",
+                    "totalNum": 3.064,
+                    "rank": "4",
+                    "yearToDate": "0.318",
+                    "yearToDateNum": 0.318
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02569",
+                    "graph": true,
+                    "label": "SG: Around The Green",
+                    "shortLabel": "Around The Green",
+                    "total": "-1.369",
+                    "totalNum": -1.369,
+                    "rank": "140",
+                    "yearToDate": "0.063",
+                    "yearToDateNum": 0.063
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02564",
+                    "graph": true,
+                    "label": "SG: Putting",
+                    "shortLabel": "Putting",
+                    "total": "1.142",
+                    "totalNum": 1.142,
+                    "rank": "39",
+                    "yearToDate": "0.074",
+                    "yearToDateNum": 0.074
+                },
+                {
+                    "__typename": "StrokesGainedStats",
+                    "statId": "02675",
+                    "graph": false,
+                    "label": "SG: Total",
+                    "shortLabel": "Total",
+                    "total": "3.721",
+                    "totalNum": 3.721,
+                    "rank": "T16",
+                    "yearToDate": "0.351",
+                    "yearToDateNum": 0.351
+                }
+            ]
+        }
+    ]
+}

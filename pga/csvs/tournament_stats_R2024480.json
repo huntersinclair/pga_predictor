@@ -84,6 +84,10 @@
             "1": {
                 "round": "1",
                 "displayName": "Round 1",
+                "weather": {
+                    "day": "Thursday", 
+                    "text": "Cloudy. High of 68. Wind NE 5-10 mph."
+                },
                 "courseInfo": {
                     "courseId": "872",
                     "courseName": "Quail Hollow Club",
@@ -152,6 +156,10 @@
                     "total": "68",
                     "scoreToPar": "-3"
                 },
+                "weather": {
+                    "day": "Friday", 
+                    "text": "Overcast, with rain throughout the day. High of 63. Wind ESE 5-10 mph."
+                },
                 "performance": {
                     "SG:OTT": {
                         "total": "1.574",
@@ -212,6 +220,10 @@
                     "total": "67",
                     "scoreToPar": "-4"
                 },
+                "weather": {
+                    "day": "Saturday", 
+                    "text": "Overcast with rain throughout the day. High of 50. Wind NNE 12-15 mph, with gusts to 30 mph."
+                },
                 "performance": {
                     "SG:OTT": {
                         "total": "2.992",
@@ -271,6 +283,10 @@
                     "parTotal": 71,
                     "total": "65",
                     "scoreToPar": "-6"
+                },
+                "weather": {
+                    "day": "Sunday", 
+                    "text": "Cloudy and breezy. High of 50. Wind NNE 10-15 mph, with gusts to 20 mph."
                 },
                 "performance": {
                     "SG:OTT": {

@@ -1,0 +1,103 @@
+{
+    "data": {
+        "tournamentPastResults": {
+            "id": "R2024480",
+            "players": [],
+            "teams": null,
+            "rounds": [],
+            "additionalDataHeaders": [
+                "FedExCup Pts",
+                "Official Money"
+            ],
+            "availableSeasons": [
+                {
+                    "year": 20240,
+                    "displaySeason": "2024"
+                },
+                {
+                    "year": 20230,
+                    "displaySeason": "2022-2023"
+                },
+                {
+                    "year": 20220,
+                    "displaySeason": "2021-2022"
+                },
+                {
+                    "year": 20210,
+                    "displaySeason": "2020-2021"
+                },
+                {
+                    "year": 20190,
+                    "displaySeason": "2018-2019"
+                },
+                {
+                    "year": 20180,
+                    "displaySeason": "2017-2018"
+                },
+                {
+                    "year": 20170,
+                    "displaySeason": "2016-2017"
+                },
+                {
+                    "year": 20160,
+                    "displaySeason": "2015-2016"
+                },
+                {
+                    "year": 20150,
+                    "displaySeason": "2014-2015"
+                },
+                {
+                    "year": 20140,
+                    "displaySeason": "2013-2014"
+                },
+                {
+                    "year": 20130,
+                    "displaySeason": "2013"
+                },
+                {
+                    "year": 20120,
+                    "displaySeason": "2012"
+                },
+                {
+                    "year": 20110,
+                    "displaySeason": "2011"
+                },
+                {
+                    "year": 20100,
+                    "displaySeason": "2010"
+                },
+                {
+                    "year": 20090,
+                    "displaySeason": "2009"
+                },
+                {
+                    "year": 20080,
+                    "displaySeason": "2008"
+                },
+                {
+                    "year": 20070,
+                    "displaySeason": "2007"
+                },
+                {
+                    "year": 20060,
+                    "displaySeason": "2006"
+                },
+                {
+                    "year": 20050,
+                    "displaySeason": "2005"
+                },
+                {
+                    "year": 20040,
+                    "displaySeason": "2004"
+                },
+                {
+                    "year": 20030,
+                    "displaySeason": "2003"
+                }
+            ],
+            "winner": null,
+            "winningTeam": null,
+            "recap": null
+        }
+    }
+}

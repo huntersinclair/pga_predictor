@@ -1,3 +1,5 @@
+from datetime import datetime, timedelta
+
 def number_to_words(n):
     if n == 0:
         return "zero"
@@ -21,6 +23,39 @@ def number_to_words(n):
 def lowercase_first(s):
     return s[:1].lower() + s[1:] if s else ''
 
+
+def convert_date_range(date_range_str):
+    # Example usage
+    # date_range = "Jan 4 - 7, 2024"
+    # result = convert_date_range(date_range)
+
+    # Define a dictionary to map month abbreviations to integers
+    month_abbr = {
+        'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+        'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+    }
+
+    # Split the input string into two parts: start date and end date
+    start_date_str, end_date_str = date_range_str.split('-')
+    start_month_abbr, start_day = start_date_str.split()[:2]
+    end_day = end_date_str.split(',')[0]
+    year = int(end_date_str.split(',')[1].strip())
+
+    # Convert start and end dates to datetime objects
+    start_date = datetime(year, month_abbr[start_month_abbr], int(start_day))
+    end_date = datetime(year, month_abbr[start_month_abbr], int(end_day))
+
+    # Initialize an empty list to store the dates
+    dates = []
+
+    # Iterate over the date range and append each date to the list
+    current_date = start_date
+    while current_date <= end_date:
+        dates.append(current_date.strftime('%Y-%m-%d'))
+        current_date += timedelta(days=1)
+
+    # Join the dates with a semicolon and return the result
+    return ';'.join(dates)
 
 def fill_tournament_player_stats(player, scorecard, stats, schema_type='simple'):
 
@@ -1493,6 +1528,8 @@ def fill_tournament_player_stats(player, scorecard, stats, schema_type='simple')
     active_schema = leadboardPlayerSchema
     if schema_type == 'simple':
         active_schema = leadboardPlayerSchemaSimple
+    elif schema_type == 'full':
+        active_schema = leadboardPlayerSchema
 
 
     stat_mappings = {

@@ -1,0 +1,115 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Kapalua, United States of America",
+        "language": "en",
+        "unit": "f"
+    },
+    "location": {
+        "name": "Kapalua",
+        "country": "United States of America",
+        "region": "Hawaii",
+        "lat": "21.000",
+        "lon": "-156.658",
+        "timezone_id": "Pacific/Honolulu",
+        "localtime": "2024-05-25 08:27",
+        "localtime_epoch": 1716625620,
+        "utc_offset": "-10.0"
+    },
+    "current": {
+        "observation_time": "06:27 PM",
+        "temperature": 72,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+        ],
+        "weather_descriptions": [
+            "Sunny"
+        ],
+        "wind_speed": 2,
+        "wind_degree": 10,
+        "wind_dir": "N",
+        "pressure": 1020,
+        "precip": 0,
+        "humidity": 79,
+        "cloudcover": 0,
+        "feelslike": 72,
+        "uv_index": 5,
+        "visibility": 10,
+        "is_day": "yes"
+    },
+    "historical": {
+        "2024-01-04": {
+            "date": "2024-01-04",
+            "date_epoch": 1704326400,
+            "astro": {
+                "sunrise": "07:05 AM",
+                "sunset": "05:59 PM",
+                "moonrise": "12:45 AM",
+                "moonset": "12:40 PM",
+                "moon_phase": "Last Quarter",
+                "moon_illumination": 40
+            },
+            "mintemp": 66,
+            "maxtemp": 75,
+            "avgtemp": 70,
+            "totalsnow": 0,
+            "sunhour": 2,
+            "uv_index": 5
+        },
+        "2024-01-05": {
+            "date": "2024-01-05",
+            "date_epoch": 1704412800,
+            "astro": {
+                "sunrise": "07:05 AM",
+                "sunset": "05:59 PM",
+                "moonrise": "01:36 AM",
+                "moonset": "01:14 PM",
+                "moon_phase": "Last Quarter",
+                "moon_illumination": 32
+            },
+            "mintemp": 68,
+            "maxtemp": 75,
+            "avgtemp": 72,
+            "totalsnow": 0,
+            "sunhour": 5,
+            "uv_index": 5
+        },
+        "2024-01-06": {
+            "date": "2024-01-06",
+            "date_epoch": 1704499200,
+            "astro": {
+                "sunrise": "07:05 AM",
+                "sunset": "06:00 PM",
+                "moonrise": "02:29 AM",
+                "moonset": "01:52 PM",
+                "moon_phase": "Waning Crescent",
+                "moon_illumination": 25
+            },
+            "mintemp": 68,
+            "maxtemp": 73,
+            "avgtemp": 72,
+            "totalsnow": 0,
+            "sunhour": 5,
+            "uv_index": 5
+        },
+        "2024-01-07": {
+            "date": "2024-01-07",
+            "date_epoch": 1704585600,
+            "astro": {
+                "sunrise": "07:05 AM",
+                "sunset": "06:01 PM",
+                "moonrise": "03:28 AM",
+                "moonset": "02:35 PM",
+                "moon_phase": "Waning Crescent",
+                "moon_illumination": 18
+            },
+            "mintemp": 68,
+            "maxtemp": 75,
+            "avgtemp": 70,
+            "totalsnow": 0,
+            "sunhour": 5,
+            "uv_index": 5
+        }
+    }
+}
